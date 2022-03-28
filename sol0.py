@@ -1,1 +1,2 @@
 import sys
+sys.stdout.buffer.write(b"\x72\x77\x61\x68\x65\x65\x64")
